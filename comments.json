@@ -1,6 +1,14 @@
 [
 	{
 		"author": "Gregg Hanano",
-		"text": "Hey there!"
+		"text": "This is a comment"
+	},
+	{
+		"author": "Kristal Delacruz",
+		"text": "This is *another* comment"
+	},
+	{
+		"author": "Ryan Gee",
+		"text": "I don't know what I'm doing"
 	}
 ]
